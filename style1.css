@@ -1,0 +1,36 @@
+header {
+  text-align: center;
+  color: black;
+  font-family: cursive;
+  background: url("https://images.designtrends.com/wp-content/uploads/2016/02/25123528/Palm-Leaves-Pattern.jpg");
+}
+ul {
+  padding: 10px;
+  text-align: center;
+  font-family: cursive;
+  border: 3px solid black;
+}
+li {
+  display: inline;
+  padding: 0px 20px 0px 20px;
+}
+a {
+  color: black;
+}
+h1 {
+  font-size: 60px;
+}
+img {
+  width: 200px;
+  height: 100px;
+
+}
+body {
+  background: white;
+}
+p {
+  color: black;
+  font-family: cursive;
+  text-align: center;
+
+}
